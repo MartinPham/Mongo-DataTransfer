@@ -1,0 +1,1 @@
+{ "options" : { "create" : "poll" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "nineminutes.poll", "name" : "_id_" }, { "v" : 1, "key" : { "ll" : "2d" }, "ns" : "nineminutes.poll", "name" : "ll_2d" } ] }

@@ -1,0 +1,1 @@
+{ "options" : { "create" : "venue" }, "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "nineminutes.venue", "name" : "_id_" }, { "v" : 1, "key" : { "ll" : "2d" }, "ns" : "nineminutes.venue", "name" : "ll_2d" } ] }
